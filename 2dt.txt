@@ -1,0 +1,14 @@
+Hi Good Afternoon,
+Iam bharath kappera
+i have 5+ years of experience as a aws devops engineer in my last position i worked as software configuration engineer
+coming to my qualification 
+i completed my  masters in information systems from northwest missouri state university with 3.9 GPA 
+coming to my skill set i have handson experience in linux 
+Proven experience on GIT build tool MAven
+for continuos integration and delivery we used jenkins and
+very familiar with shell and python scripting
+hands on experience with ansible
+hands on experience in creating the EC2 instances in AWS 
+GOOD AT docker for virtualization and containerization
+checking the server health 
+after deploying the server checking the server health
